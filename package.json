@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/EmotionChild/EmotionBot-v3/issues"
   },
-  "homepage": "https://github.com/EmotionChild/EmotionBot-v3#readme"
+  "homepage": "https://github.com/EmotionChild/EmotionBot-v3#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "bufferutil": "^4.0.3",
+    "discord.js": "^12.5.3",
+    "libsodium-wrappers": "^0.7.9",
+    "utf-8-validate": "^5.0.4"
+  }
 }
