@@ -1,6 +1,6 @@
 # EmotionBot
 
-EmotionBot ©2021 Emotion#6522
+EmotionBot ©2018-2021 Emotion#6522
 
 ![](https://cdn.discordapp.com/attachments/765441543100170271/834718348822577163/409518_CN78ZWFg.png)
 
