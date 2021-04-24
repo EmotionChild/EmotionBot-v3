@@ -17,7 +17,7 @@ EmotionBot ©2018-2021 Emotion#6522
 
 ## Discord Server
 
-if you have any issues you can join this [Discord Server](https://discord.gg/SVQVzJq)
+if you have any issues you can join our [Discord Server](https://discord.gg/SVQVzJq)
 
 ## Licence
 
