@@ -1,4 +1,4 @@
-# EmotionBot v3 is being archived for a while due to stress
+# EmotionBot v3 is being archived for a while due to stress on the main developer
 
 ## EmotionBot
 
