@@ -1,4 +1,6 @@
-# EmotionBot
+# EmotionBot v3 is being archived for a while due to stress
+
+## EmotionBot
 
 EmotionBot ©2018-2021 Emotion#6522
 
