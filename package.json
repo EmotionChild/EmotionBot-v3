@@ -27,6 +27,6 @@
     "utf-8-validate": "^5.0.4"
   },
   "devDependencies": {
-    "eslint": "^7.24.0"
+    "eslint": "^7.26.0"
   }
 }
