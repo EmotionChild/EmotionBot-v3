@@ -21,7 +21,7 @@
     "bufferutil": "^4.0.3",
     "discord.js": "^12.5.3",
     "discord.js-commando": "^0.12.3",
-    "dotenv": "^8.2.0",
+    "dotenv": "^9.0.2",
     "fs": "0.0.1-security",
     "libsodium-wrappers": "^0.7.9",
     "utf-8-validate": "^5.0.4"
