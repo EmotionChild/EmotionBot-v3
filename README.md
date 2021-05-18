@@ -15,6 +15,10 @@ EmotionBot ©2018-2021 Emotion#6522
 6.Submit a pull request
 ```
 
+## Discord Server
+
+if you have any issues you can join our [Discord Server](https://discord.gg/SVQVzJq)
+
 ## Licence
 
 You can view the license for this repo in [LICENSE](LICENSE)
