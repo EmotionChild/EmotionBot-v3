@@ -7,6 +7,6 @@ module.exports = {
 			return message.channel.send('bar');
 		}
 
-		message.channel.send(`First argument: ${args[0]}`);
+		message.channel.send(`Arguments: ${args}\nArguments length: ${args.length}`);
 	},
 };
