@@ -17,7 +17,7 @@ for (const folder of commandFolders) {
 }
 
 client.once('ready', () => {
-	console.log('Logged in as ${client.user.tag}!');
+	console.log('Ready!');
 });
 
 client.on('message', message => {
