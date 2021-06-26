@@ -15,6 +15,10 @@ EmotionBot ©2018-2021 Emotion#6522
 6.Submit a pull request
 ```
 
+## Disclaimer
+
+This bot is in an early alpha stage and any help is very much appreciated
+
 ## Discord Server
 
 if you have any issues you can join our [Discord Server](https://discord.gg/SVQVzJq)
