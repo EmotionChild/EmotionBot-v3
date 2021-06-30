@@ -4,6 +4,10 @@ Ellie Discord Bot ©2018-2021 Emotion#6522
 
 ![](https://cdn.discordapp.com/attachments/765441543100170271/834718348822577163/409518_CN78ZWFg.png)
 
+## Badges
+
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/EmotionChild/Ellie-v3.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/EmotionChild/Ellie-v3/alerts/)
+
 ## Contribution Guide
 
 ```
