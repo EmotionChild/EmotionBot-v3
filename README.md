@@ -1,4 +1,4 @@
-# Ellie-v3
+# Ellie Discord Bot v3
 
 Ellie Discord Bot ©2018-2021 Emotion#6522
 
