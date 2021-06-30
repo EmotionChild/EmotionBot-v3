@@ -1,21 +1,21 @@
 {
-  "name": "emotionbot",
-  "version": "1.0.0",
-  "description": "The in development version of EmotionBot v3",
+  "name": "elliebot",
+  "version": "0.1-alpha",
+  "description": "The in development version of Ellie Bot v3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmotionChild/EmotionBot-v3.git"
+    "url": "git+https://github.com/EmotionChild/Ellie-v3.git"
   },
   "author": "EmotionChild",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/EmotionChild/EmotionBot-v3/issues"
+    "url": "https://github.com/EmotionChild/Ellie-v3/issues"
   },
-  "homepage": "https://github.com/EmotionChild/EmotionBot-v3#readme",
+  "homepage": "https://github.com/EmotionChild/Ellie-v3#readme",
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
     "bufferutil": "^4.0.3",
