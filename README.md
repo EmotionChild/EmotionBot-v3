@@ -1,6 +1,6 @@
-# EmotionBot v3
+# Ellie-v3
 
-EmotionBot ©2018-2021 Emotion#6522
+Ellie Discord Bot ©2018-2021 Emotion#6522
 
 ![](https://cdn.discordapp.com/attachments/765441543100170271/834718348822577163/409518_CN78ZWFg.png)
 
@@ -8,7 +8,7 @@ EmotionBot ©2018-2021 Emotion#6522
 
 ```
 1.Fork this repository
-2.Clone your fork: git clone https://github.com/your-username/EmotionBot-v3.git
+2.Clone your fork: git clone https://github.com/your-username/Ellie-v3.git
 3.Create your feature branch: git checkout -b my-new-feature
 4.Commit your changes: git commit -am 'Add some feature'
 5.Push to the branch: git push origin my-new-feature
