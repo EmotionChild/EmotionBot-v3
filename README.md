@@ -6,7 +6,7 @@ Ellie Discord Bot ©2018-2021 Emotion#6522
 
 ## Badges
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/EmotionChild/Ellie-v3.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/EmotionChild/Ellie-v3/alerts/)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/EmotionChild/Ellie-v3.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/EmotionChild/Ellie-v3/alerts/) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/EmotionChild/Ellie-v3.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/EmotionChild/Ellie-v3/context:javascript)
 
 ## Contribution Guide
 
